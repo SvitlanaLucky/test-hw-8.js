@@ -14,5 +14,16 @@ body {
 
 img {
   display: block;
-  max-width: 100%;
+  width: 150px;
+  height: 150px;
+}
+
+li {
+  list-style: none;
+}
+
+.modal {
+  width: 500px;
+  background-color: white;
+  padding: 20px;
 }
